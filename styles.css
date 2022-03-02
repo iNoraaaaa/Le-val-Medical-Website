@@ -1,0 +1,155 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+#welcome{
+    margin-bottom: 4%;
+    background-color: D3DEDC;
+    padding-bottom: 10px;
+}
+
+.navbar-brand{
+    font-family: 'Rye', cursive;
+    font-weight: bold;
+}
+
+.navbar-nav{
+    font-family: 'Arvo', serif;
+}
+
+#ppt{
+    text-align: center;
+}
+
+.test{
+    background-color: aliceblue;
+}
+
+.col{
+    margin: 5%;
+}
+
+h1 {
+    color: white;
+    font-family: 'Rye', cursive;
+    font-size: 2.5em;
+    padding-top: 120px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+
+
+
+.part_3{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Rye', cursive;
+    text-align: center;
+    padding-bottom: 2%;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Arvo', serif;
+    text-align: center;
+    color: rgb(121, 120, 120);
+}
+
+.icon{
+    color: black;
+    margin-bottom: 0.5em;
+}
+
+.arti{
+    font-family: 'Arvo', serif;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.part_2{
+    background-color: azure;
+    padding: 0;
+    margin: 0;
+}
+
+#about{
+    padding: 6% 13%;
+}
+
+#article{
+    background-color: 92A9BD;
+}
+
+.part_4{
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Rye', cursive;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+
+.donatebutton{
+    padding-top:3%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.part_5{
+    padding: 0;
+    margin: 0;
+}
+
+.part_6{
+    text-align: center;
+    background-color: 7C99AC;
+    padding: 0;
+    margin: 0;
+}
+
+.icon2{
+    padding: 2% 2%;
+}
+
+.contrimg{
+    text-align: right;
+}
+
+.contributor{
+    padding:2% 2% ;
+}
+
+h4{
+    font-family: 'Rye', cursive;
+    padding-top: 3%;
+}
+
+h5{
+    font-family: 'Rye', cursive;
+    padding: 3%;
+}
+
+h6{
+    font-family: 'Arvo', serif;
+    padding-bottom: 2%;
+}
+
+table{
+    font-family: 'Arvo', serif;
+    padding: 3%;
+    padding-bottom: 1%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: D3DEDC;
+    background-size: 100%, 100%;
+    border-radius: 60%;
+}
